@@ -27,10 +27,6 @@ class _HomePageState extends State<HomePage> {
     setState(() => {});
   }
 
-  void isFavorito(String code){
-
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
